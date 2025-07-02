@@ -2,8 +2,8 @@
 -------------------------------------------------------
 
 **Company:** CODTECH IT SOLUTIONS  
-**Name:** AKASH SWAIN  
-**Intern ID:** CT04DG04  
+**Name:** Asit kumar sahoo 
+**Intern ID:** CT04DF2951  
 **Domain Name:** Java Programming  
 **Duration:** 4 Weeks  
 **Mentor:** NEELA SANTOSH  
