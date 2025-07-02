@@ -1,0 +1,25 @@
+
+---
+
+## 🚀 How It Works
+
+### 🖥️ Server (`Server.java`)
+- Starts a server on port `1234`
+- Accepts incoming client connections
+- Creates a **new thread** (`ClientHandler`) for every client
+- Broadcasts any message received from a client to **all connected clients**
+
+### 👤 Client (`Client.java`)
+- Connects to the server via IP and port
+- Sends user input to the server
+- Listens for incoming messages using a background thread
+- Displays received messages in real-time
+
+---
+
+## 🔧 How to Run the Project
+
+### ✅ Step 1: Compile both Java files
+```bash
+javac Server.java
+javac Client.java
